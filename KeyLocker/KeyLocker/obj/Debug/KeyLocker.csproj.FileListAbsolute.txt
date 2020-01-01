@@ -1,0 +1,8 @@
+D:\source\KeyLocker\KeyLocker\obj\Debug\KeyLocker.csprojAssemblyReference.cache
+D:\source\KeyLocker\KeyLocker\obj\Debug\KeyLocker.Properties.Resources.resources
+D:\source\KeyLocker\KeyLocker\obj\Debug\KeyLocker.csproj.GenerateResource.cache
+D:\source\KeyLocker\KeyLocker\bin\Debug\KeyLocker.exe.config
+D:\source\KeyLocker\KeyLocker\bin\Debug\KeyLocker.exe
+D:\source\KeyLocker\KeyLocker\bin\Debug\KeyLocker.pdb
+D:\source\KeyLocker\KeyLocker\obj\Debug\KeyLocker.exe
+D:\source\KeyLocker\KeyLocker\obj\Debug\KeyLocker.pdb
